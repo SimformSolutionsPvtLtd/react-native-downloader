@@ -1,4 +1,4 @@
-package com.boilerplate;
+package com.simform.reactnativedownloader;
 
 import android.app.Application;
 
